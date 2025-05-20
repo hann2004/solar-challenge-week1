@@ -42,7 +42,3 @@ For questions, open an issue or contact me.
 
 ```
 
----
-
-Ready to go! Want it even snappier?
-

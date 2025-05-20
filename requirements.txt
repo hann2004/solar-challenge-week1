@@ -1,3 +1,12 @@
+pip>=23.0
+setuptools>=65.0
+wheel>=0.38.0
+seaborn
+streamlit
+pandas
+matplotlib
+numpy
+
 altair==5.5.0
 anyio==4.9.0
 argon2-cffi==23.1.0

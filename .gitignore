@@ -12,3 +12,5 @@ data/
 # VS Code
 .vscode/
 
+data/
+*.csv

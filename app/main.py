@@ -29,7 +29,7 @@ def main():
     st.title("Comparative Analysis of Solar Metrics")
     st.markdown("Compare **GHI**, **DNI**, and **DHI** across Benin, SierraLeone, and Togo.")
 
-    countries = ["Benin", "Sierra Leone", "Togo"]
+    countries = ["Benin", "SierraLeone", "Togo"]
     selected_countries = st.multiselect("Select Countries", countries, default=countries)
 
     if not selected_countries:

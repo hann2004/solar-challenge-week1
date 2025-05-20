@@ -27,7 +27,7 @@ def get_summary(df):
 
 def main():
     st.title("Comparative Analysis of Solar Metrics")
-    st.markdown("Compare **GHI**, **DNI**, and **DHI** across Benin, Sierra Leone, and Togo.")
+    st.markdown("Compare **GHI**, **DNI**, and **DHI** across Benin, SierraLeone, and Togo.")
 
     countries = ["Benin", "Sierra Leone", "Togo"]
     selected_countries = st.multiselect("Select Countries", countries, default=countries)
